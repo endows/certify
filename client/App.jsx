@@ -34,19 +34,19 @@ var App = React.createClass({
                 </CardText>
                 <CardHeader
                   title="Meteorアプリの作成"
-                  subtitle="Subtitle"
+                  
                   avatar={<FontIcon style={icon_style} className="material-icons">check_circle</FontIcon>}
                   showExpandableButton={true}>
                 </CardHeader>
                 <CardHeader
                   title="Templateの利用"
-                  subtitle="Subtitle"
+                  
                   avatar={<FontIcon style={icon_style} className="material-icons">check_circle</FontIcon>}
                   showExpandableButton={true}>
                 </CardHeader>
                 <CardHeader
                   title="collectionの挿入/削除"
-                  subtitle="Subtitle"
+                  
                   avatar={<FontIcon style={icon_style} className="material-icons">check_circle</FontIcon>}
                   showExpandableButton={true}>
                 </CardHeader>
